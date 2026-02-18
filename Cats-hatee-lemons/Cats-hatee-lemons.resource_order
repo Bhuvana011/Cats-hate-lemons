@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oFLag","order":7,"path":"objects/oFLag/oFLag.yy",},
+    {"name":"oLemon","order":1,"path":"objects/oLemon/oLemon.yy",},
+    {"name":"oPlatform","order":2,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"oSolid","order":4,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oStar","order":5,"path":"objects/oStar/oStar.yy",},
+    {"name":"win","order":6,"path":"objects/win/win.yy",},
+    {"name":"Win","order":3,"path":"rooms/Win/Win.yy",},
+    {"name":"sLemon","order":1,"path":"sprites/sLemon/sLemon.yy",},
+    {"name":"sPlatform","order":2,"path":"sprites/sPlatform/sPlatform.yy",},
+    {"name":"Sprite6","order":6,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"sStar","order":4,"path":"sprites/sStar/sStar.yy",},
+    {"name":"youWin","order":5,"path":"sprites/youWin/youWin.yy",},
+  ],
+}
